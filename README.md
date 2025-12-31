@@ -7,7 +7,7 @@ This repository contains two interactive, AI-assisted games developed for **Rema
 
 ## 📂 Project Files
 
-All source code, assets, and related files for both games are available at the link below:
+Exe file is available at the link below:
 
 🔗 **Google Drive Folder:**  
 https://drive.google.com/drive/folders/1wDJUDpXt5_pnYymVt08iMxG5Pd21feZz?usp=drive_link
@@ -28,14 +28,7 @@ https://drive.google.com/drive/folders/1wDJUDpXt5_pnYymVt08iMxG5Pd21feZz?usp=dri
 
 ---
 
-## 🚀 How to Use
 
-1. Open the Google Drive link above  
-2. Download the required game folder  
-3. Follow the instructions inside each game directory  
-4. Run the game and enjoy 🎉  
-
----
 
 ## 🧠 Developed For
 
@@ -44,11 +37,7 @@ Interactive learning through AI-driven and intuitive game design.
 
 ---
 
-## 📌 Notes
 
-- Ensure required dependencies are installed  
-- All assets are included in the drive  
-- Suitable for demos, learning, and further development  
 
 ---
 
