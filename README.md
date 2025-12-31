@@ -1,61 +1,55 @@
-🎮 Interactive Games for Remap Intelligence
-Snake Game 🐍 & Juggling Game 🤹‍♂️
+# 🎮 Interactive Games for Remap Intelligence  
+### Snake Game 🐍 & Juggling Game 🤹‍♂️
 
-This repository contains two interactive, AI-assisted games developed as part of a project for Remap Intelligence. The games focus on engagement, motion-based interaction, and playful learning experiences.
+This repository contains two interactive, AI-assisted games developed for **Remap Intelligence**, focusing on engagement, motion-based interaction, and playful learning.
 
-📂 Project Files
+---
 
-All source code, assets, and related files for both games are available in the Google Drive folder below:
+## 📂 Project Files
 
-🔗 Access the complete project here:
-👉 Snake & Juggling Game – Google Drive
+All source code, assets, and related files for both games are available at the link below:
 
-🕹️ Games Included
-🐍 Snake Game
+🔗 **Google Drive Folder:**  
+https://drive.google.com/drive/folders/1wDJUDpXt5_pnYymVt08iMxG5Pd21feZz?usp=drive_link
 
-Classic snake gameplay with modern interaction
+---
 
-Smooth controls and minimal UI
+## 🕹️ Games Included
 
-Designed for engagement and responsiveness
+### 🐍 Snake Game
+- Classic snake gameplay with modern interaction  
+- Smooth controls and minimal UI  
+- Designed for responsiveness and engagement  
 
-🤹‍♂️ Juggling Game
+### 🤹‍♂️ Juggling Game
+- Fun, child-friendly cartoon-style game  
+- Focuses on coordination and timing  
+- Lightweight and visually appealing  
 
-Fun, child-friendly cartoon-style game
+---
 
-Focuses on coordination and timing
+## 🚀 How to Use
 
-Lightweight and visually appealing
+1. Open the Google Drive link above  
+2. Download the required game folder  
+3. Follow the instructions inside each game directory  
+4. Run the game and enjoy 🎉  
 
-🚀 How to Use
+---
 
-Open the Google Drive link above
+## 🧠 Developed For
 
-Download the required game folder
+**Remap Intelligence**  
+Interactive learning through AI-driven and intuitive game design.
 
-Follow the instructions provided inside each game directory
+---
 
-Run and enjoy 🎉
+## 📌 Notes
 
-🧠 Developed For
+- Ensure required dependencies are installed  
+- All assets are included in the drive  
+- Suitable for demos, learning, and further development  
 
-Remap Intelligence
-Focused on interactive learning, AI-driven engagement, and intuitive game design.
+---
 
-📌 Notes
-
-Ensure all dependencies mentioned in the folders are installed
-
-Assets are included within the drive
-
-Suitable for demo, learning, and further enhancement
-
-✨ Feel free to explore, modify, and build upon these games!
-
-If you want, I can also:
-
-Add installation steps
-
-Write a professional corporate-style README
-
-Create a GitHub-ready version with badges & screenshots
+✨ *Feel free to explore, modify, and build upon these games!*
